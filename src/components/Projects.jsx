@@ -1,6 +1,6 @@
 import React from "react";
 import Movie from '../assets/Movie.png';
-import Kream from '../assets/Kream.png';  
+import Kream from '../assets/kream.png';  
 import Diamond from '../assets/Diamond.png';
 const projects = [
   {
