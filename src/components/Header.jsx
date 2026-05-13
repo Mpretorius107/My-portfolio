@@ -1,3 +1,4 @@
+import React from "react";
 import { GraduationCap, Phone, Menu } from "lucide-react";
 import { useState } from "react";
 

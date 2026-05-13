@@ -1,3 +1,5 @@
+import React from 'react';
+
 const About = () => {
 return (
 <section id="about" className="max-w-6xl mx-auto py-20 px-4">
